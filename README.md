@@ -6,12 +6,7 @@ This repository will contain the codes for the paper titled [Deep Segmentation o
 Coming soon...
 
 ## Requirements
-
-- Pytorch
-- Python3.X
-- numpy
-- cv2
-- PIL
+Coming soon...
 
 ## Usage
 Coming soon...
