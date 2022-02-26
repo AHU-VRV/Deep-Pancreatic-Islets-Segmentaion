@@ -1,4 +1,4 @@
-# Deep Segmentation of Pancreatic Islet Images with AA-Net
+# Deep Segmentation of Pancreatic Islet Images
 This repository will contain the codes for the paper on the segmentation of pancreatic islet images using deep neural networks, which is under review. We will upload them later on.
 
 
