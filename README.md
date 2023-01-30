@@ -3,7 +3,7 @@
 This is the code of AA-Net proposed in the paper **"Reduced volume of diabetic pancreatic islets in rodents detected by synchrotron X-ray phase-contrast microtomography and deep learning network"** published in Heliyon, 2023. 
 
 ## About AA-Net
-In short, AA-Net is a deep-learning based method to segment islet images and help visualizing the islets *in situ* in diabetic rodents by the synchrotron radiation X-ray phase-contrast microtomography (SRμCT) at the ID17 station of the European Synchrotron Radiation Facility. 
+In short, AA-Net is a deep-learning based method to segment islet images and, therefore, help visualize the islets *in situ* in diabetic rodents by the synchrotron radiation X-ray phase-contrast microtomography (SRμCT) at the ID17 station of the European Synchrotron Radiation Facility. 
 
 ## How to Use
 - The code is based on: Python 3.6, and pytorch 1.5.0, which includes both the training and testing parts. Please check Requirements.txt for the details on how to setup the code.
