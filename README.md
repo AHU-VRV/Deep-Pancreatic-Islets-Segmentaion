@@ -1,4 +1,4 @@
-# Reduced Volume of diabetic Pancreatic Islets in Rodents Detected by Synchrotron X-ray Phase-contrast Microtomography and Deep Learning Network
+# Reduced Volume of Diabetic Pancreatic Islets in Rodents Detected by Synchrotron X-ray Phase-contrast Microtomography and Deep Learning Network
 
 This is the code of AA-Net proposed in the paper **"Reduced volume of diabetic pancreatic islets in rodents detected by synchrotron X-ray phase-contrast microtomography and deep learning network"** published in Heliyon, 2023. 
 
