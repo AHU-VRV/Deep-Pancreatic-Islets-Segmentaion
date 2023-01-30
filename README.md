@@ -17,4 +17,4 @@ The code is based on: Python 3.6, and pytorch 1.5.0, which includes both the tra
 ## Paper Information
 Please check the following paper for more details:
 
-Qingqing Guo, Abdulla AlKendi, Xiaoping Jiang, Alberto Mittone, Linbo Wang, Emanuel Larsson, Alberto Bravin, Erik Renström, Xianyong Fang, Enming Zhang. *Reduced volume of diabetic pancreatic islets in rodents detected by synchrotron X-ray phase-contrast microtomography and deep learning network*, Heliyon, 2023. DOI:https://doi.org/10.1016/j.heliyon.2023.e13081
+Qingqing Guo, Abdulla AlKendi, Xiaoping Jiang, Alberto Mittone, Linbo Wang, Emanuel Larsson, Alberto Bravin, Erik Renström, Xianyong Fang, Enming Zhang. *Reduced volume of diabetic pancreatic islets in rodents detected by synchrotron X-ray phase-contrast microtomography and deep learning network*, Heliyon, vol. 9, no.2, E13081, 2023. DOI:https://doi.org/10.1016/j.heliyon.2023.e13081
