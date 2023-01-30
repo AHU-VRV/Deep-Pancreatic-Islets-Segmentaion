@@ -6,7 +6,7 @@ This is the code of AA-Net proposed in the paper **"Reduced volume of diabetic p
 AA-Net is a deep-learning based method to segment islet images and, therefore, help visualize the islets *in situ* in diabetic rodents by the synchrotron radiation X-ray phase-contrast microtomography (SRμCT) at the ID17 station of the European Synchrotron Radiation Facility. 
 
 AA-Net takes the traditional encoder-decoder structure where AAM is adopted to enhance the bottleneck features and the twin-block based encoder is included to improve feature abstraction performance.
-![network(AA-Net.png)
+![network](AA-Net.png)
 
 ## How to Use
 The code is based on: Python 3.6, and pytorch 1.5.0, which includes both the training and testing parts. Please check Requirements.txt for the details on how to setup the code.
